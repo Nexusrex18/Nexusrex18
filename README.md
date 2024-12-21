@@ -50,6 +50,14 @@ Here are some of the languages and tools I frequently use:
 
 ---
 
+## Codeforces Profile
+
+ Codeforces   ![Rating](https://img.shields.io/badge/914-Newbie-brightgreen) 
+
+[Visit My Codeforces Profile](https://codeforces.com/profile/balagpt123)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Nexusrex18's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nexusrex18&show_icons=true&theme=radical)
