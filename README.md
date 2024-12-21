@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ---
 
-## 👯 Looking to Collaborate On
+## 👀 Looking to Collaborate On
 
 **Backend Projects**, **Developer Tooling**, **Infrastructure Tools**
 
