@@ -2,17 +2,9 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in **backend development**, **CLI tools**, **DevOps tools**, and **AI/ML**. I love diving into complex problems, learning new technologies, and creating exciting projects that make an impact.
 
----
+## 🌱 Currently Learning : **CLI Tools**, **Toolchain Development**, **DevOps Tools**
 
-## 🌱 Currently Learning
-
-**CLI Tools**, **Toolchain Development**, **DevOps Tools**
-
----
-
-## 👀 Looking to Collaborate On
-
-**Backend Projects**, **Developer Tooling**, **Infrastructure Tools**
+## 👀 Looking to Collaborate On : **Backend Projects**, **Developer Tooling**, **Infrastructure Tools**
 
 ---
 
@@ -36,6 +28,7 @@ Here are some of the languages and tools I frequently use:
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logoColor=white&style=flat)
