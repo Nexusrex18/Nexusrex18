@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in **backend development**, **CLI tools**, **DevOps tools**, and **AI/ML**. I love diving into complex problems, learning new technologies, and creating exciting projects that make an impact.
 
-## 🌱 Currently Learning : **CLI Tools**, **Toolchain Development**, **DevOps Tools**
+### 🌱 Currently Learning : **CLI Tools**, **Toolchain Development**, **DevOps Tools**
 
-## 👀 Looking to Collaborate On : **Backend Projects**, **Developer Tooling**, **Infrastructure Tools**
+### 👀 Looking to Collaborate On : **Backend Projects**, **Developer Tooling**, **Infrastructure Tools**
 
 ---
 
