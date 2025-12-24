@@ -48,9 +48,9 @@ Here are some of the languages and tools I frequently use:
 
 ## 📊 GitHub Stats
 
-![Nexusrex18's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nexusrex18&show_icons=true&theme=radical)
+![Nexusrex18's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nexusrex18&show_icons=true&theme=radical&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nexusrex18&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nexusrex18&layout=compact&theme=radical&cache_seconds=86400)
 
 ---
 
