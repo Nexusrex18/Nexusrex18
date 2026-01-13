@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 📧 How to reach me
 
 - **Email**: [lavisnj350@gmail.com](mailto:lavisnj350@gmail.com)
-- **LinkedIn**: [Lavi Khandelwal](https://www.linkedin.com/lavi-khandelwal?_l=en_US)
+- **LinkedIn**: [Lavi Khandelwal](www.linkedin.com/in/lavi-khandelwal-11a18430b)
 
 ---
 
