@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 📧 How to reach me
 
 - **Email**: [lavisnj350@gmail.com](mailto:lavisnj350@gmail.com)
-- **LinkedIn**: [Lavi Khandelwal](www.linkedin.com/in/lavi-khandelwal-11a18430b)
 
 ---
 
@@ -38,13 +37,6 @@ Here are some of the languages and tools I frequently use:
 
 ---
 
-## Codeforces Profile
-
- Codeforces   ![Rating](https://img.shields.io/badge/914-Newbie-brightgreen) 
-
-[Visit My Codeforces Profile](https://codeforces.com/profile/balagpt123)
-
----
 
 ## 📊 GitHub Stats
 
